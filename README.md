@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Weber Gaia. I am an automation engineer and software engineer. I have been studying in Universidade Federal Fluminense in master degree of PPGEET like researcher.
+My name is Weber Gaia. I am an automation engineer and software engineer. I have been studying in Universidade Federal Fluminense in master degree of PPGEET as researcher.
 
 ## Statics
 ![Weber GitHub stats](https://github-readme-stats.vercel.app/api?username=WeberGaia&show_icons=true&theme=dracula)
