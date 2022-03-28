@@ -15,7 +15,6 @@ My name is Weber Gaia. I am an automation engineer and software engineer. I have
  </div>
 
 ## Skills 
-<p> Testando recursos </p>
 <div style="display: inline_block">
   <img align="center"alt="Python3" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
   <img align="center"alt="MATLAB" src="https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg" />
