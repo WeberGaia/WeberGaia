@@ -15,8 +15,7 @@ My name is Weber Gaia. I am an automation engineer. I have been studying in Univ
  </div>
 
 ## Skills 
-<div style="display: inline_block">
-  <img align="center"alt="Python3" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-</div>
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
-
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Arduino](https://img.shields.io/badge/Arduino-black?style=flat-square&logo=arduino)
