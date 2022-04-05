@@ -17,6 +17,6 @@ My name is Weber Gaia. I am an automation engineer. I have been studying in Univ
 ## Skills 
 <div style="display: inline_block">
   <img align="center"alt="Python3" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-  <img align="center"alt="MATLAB" src="https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg" />
 </div>
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
