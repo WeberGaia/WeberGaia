@@ -4,7 +4,7 @@ My name is Weber Gaia. I am an automation engineer. I have been studying in Univ
 
 ## Statics
 ![Weber GitHub stats](https://github-readme-stats.vercel.app/api?username=WeberGaia&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WeberGaia&layout=compact)](https://github.com/WeberGaia/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WeberGaia&layout=compact&theme=dracula)](https://github.com/WeberGaia/github-readme-stats)
 
 ## Social Media and contact
 <div>
