@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi everyone 👋
 
 My name is Weber Gaia. I am an automation engineer. I have been studying in Universidade Federal Fluminense in master degree of PPGEET as researcher.
 
